@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf449697-8abe-407e-bd43-1d51bdfdf9f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/brainlyemailsweb/brainlyemailsweb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/brainlyemailsweb/brainlyemailsweb/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainlyemailsweb/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainlyemailsweb/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +18,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1raFdnS9ebJw3GnpBHmcdqphJZI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619206384836</updated>
       <workItem from="1619206387181" duration="31000" />
-      <workItem from="1619234985085" duration="223000" />
+      <workItem from="1619234985085" duration="373000" />
     </task>
     <servers />
   </component>
@@ -51,5 +59,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
