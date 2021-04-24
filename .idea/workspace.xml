@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf449697-8abe-407e-bd43-1d51bdfdf9f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainlyemailsweb/brainlyemailsweb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/brainlyemailsweb/brainlyemailsweb/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619206384836</updated>
       <workItem from="1619206387181" duration="31000" />
-      <workItem from="1619234985085" duration="46000" />
+      <workItem from="1619234985085" duration="223000" />
     </task>
     <servers />
   </component>
